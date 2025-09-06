@@ -1,6 +1,6 @@
 <!-- Jawwad183 | AI Engineer & Full-Stack Web Developer -->
 
-<h1 align="center">Hi, I'm Jawwad Mufti 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Jawad Mufti 👋</h1>
 <p align="center">
   <b>AI Engineer • Full-Stack Web Developer • Builder of Real-World Solutions</b>
 </p>
